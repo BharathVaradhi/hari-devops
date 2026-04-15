@@ -2,7 +2,7 @@
 
 ## Did you sleep well?
 
-## <critical>MY GAOL BEFORE END OF APRIL<critical>
+## <mark>MY GAOL BEFORE END OF APRIL</mark>
 
 - Make my first edit
 - Make my first chess game
@@ -14,10 +14,3 @@
 2. CRUD API in go-HTMX, python (FastAPI), elixir
 
 ## Delete this repo Bro!
-
-<style>
-    critical {
-        background-color: red;
-        color: white;
-    }
-</style>
